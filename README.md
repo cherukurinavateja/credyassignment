@@ -6,4 +6,4 @@
 - Reqest counter logic is done in requestcount app
 - URL's for each app is stored in api folder of each app
 - DB used is sqlite3
-- Response for all requests is stored in images folder
+- Response for all requests is stored in results folder
